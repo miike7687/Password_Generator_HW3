@@ -68,10 +68,6 @@ var uppers = [
 console.log(uppers);
 var characters = ["!", "#", "$", "%", "&", "@"];
 console.log(characters);
-// What if the user says no to all of the prompts?
-var mustChoose;
-// Create a variable that stores all the user's parameters
-var userSelections;
 
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
